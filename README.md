@@ -13,4 +13,7 @@ For a general introduction to PDP, refer to Section 8.1 of Christoph Molnar's bo
 
 For a quick glance of DALEX (Descriptive mAchine Learning EXplanations), I recommend reading the index page of its API reference (https://modeloriented.github.io/DALEX/reference/index.html)
 
-Przemyslaw Biecek and Tomasz Burzykowski wrote a book ["Explore, Explain, and Examine Predictive Models. With examples in R and Python"](https://ema.drwhy.ai/). Read it if you want to learn more about DALEX. 
+Przemyslaw Biecek and Tomasz Burzykowski wrote a book ["Explanatory Model Analysis"](https://ema.drwhy.ai/). Read it if you want to learn more about DALEX. 
+
+## To do
+Create a python script as well. 
